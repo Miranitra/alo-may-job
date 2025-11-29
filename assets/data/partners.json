@@ -1,0 +1,38 @@
+[
+  {
+    "name": "France_travail",
+    "logo": "assets/img/partners/france_travail.webp",
+    "alt": "Logo du partenaire 1",
+    "url": "#"
+  },
+  {
+    "name": "departement_mayotte",
+    "logo": "assets/img/partners/CD.webp",
+    "alt": "Logo du partenaire 2",
+    "url": "#"
+  },
+  {
+    "name": "edm",
+    "logo": "assets/img/partners/edm.webp",
+    "alt": "Logo du partenaire 3",
+    "url": "#"
+  },
+  {
+    "name": "colas_mayotte",
+    "logo": "assets/img/partners/colas.webp",
+    "alt": "Logo du partenaire 4",
+    "url": "#"
+  },
+  {
+    "name": "vindemia",
+    "logo": "assets/img/partners/vindemedia.webp",
+    "alt": "Logo du partenaire 4",
+    "url": "#"
+  },
+  {
+    "name": "vinci",
+    "logo": "assets/img/partners/vinci.webp",
+    "alt": "Logo du partenaire 4",
+    "url": "#"
+  }
+]
